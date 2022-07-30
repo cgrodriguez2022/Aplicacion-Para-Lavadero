@@ -1,0 +1,6 @@
+Claudio de un lavadero de santa rosa la pampa:
+Solicito un aplicación que le permita cargar archivos PDF y convertirlos en Excel
+utilizando la libreria tabula, fue posible
+Archivo finalizado el 29/07/2022
+
+Ahora necesita una gestion de gastos.
